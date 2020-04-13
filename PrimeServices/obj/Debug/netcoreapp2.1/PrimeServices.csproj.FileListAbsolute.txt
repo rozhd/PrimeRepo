@@ -1,0 +1,11 @@
+D:\University\ИСИС\test\PrimeServices\PrimeServices\bin\Debug\netcoreapp2.1\PrimeServices.deps.json
+D:\University\ИСИС\test\PrimeServices\PrimeServices\bin\Debug\netcoreapp2.1\PrimeServices.runtimeconfig.json
+D:\University\ИСИС\test\PrimeServices\PrimeServices\bin\Debug\netcoreapp2.1\PrimeServices.runtimeconfig.dev.json
+D:\University\ИСИС\test\PrimeServices\PrimeServices\bin\Debug\netcoreapp2.1\PrimeServices.dll
+D:\University\ИСИС\test\PrimeServices\PrimeServices\bin\Debug\netcoreapp2.1\PrimeServices.pdb
+D:\University\ИСИС\test\PrimeServices\PrimeServices\obj\Debug\netcoreapp2.1\PrimeServices.csproj.CoreCompileInputs.cache
+D:\University\ИСИС\test\PrimeServices\PrimeServices\obj\Debug\netcoreapp2.1\PrimeServices.AssemblyInfoInputs.cache
+D:\University\ИСИС\test\PrimeServices\PrimeServices\obj\Debug\netcoreapp2.1\PrimeServices.AssemblyInfo.cs
+D:\University\ИСИС\test\PrimeServices\PrimeServices\obj\Debug\netcoreapp2.1\PrimeServices.dll
+D:\University\ИСИС\test\PrimeServices\PrimeServices\obj\Debug\netcoreapp2.1\PrimeServices.pdb
+D:\University\ИСИС\test\PrimeServices\PrimeServices\obj\Debug\netcoreapp2.1\PrimeServices.csprojAssemblyReference.cache

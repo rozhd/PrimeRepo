@@ -1,0 +1,10 @@
+D:\University\ИСИС\test\PrimeServices\wfTest\bin\Debug\wfTest.exe.config
+D:\University\ИСИС\test\PrimeServices\wfTest\bin\Debug\wfTest.exe
+D:\University\ИСИС\test\PrimeServices\wfTest\bin\Debug\wfTest.pdb
+D:\University\ИСИС\test\PrimeServices\wfTest\obj\Debug\wfTest.csprojAssemblyReference.cache
+D:\University\ИСИС\test\PrimeServices\wfTest\obj\Debug\wfTest.Form1.resources
+D:\University\ИСИС\test\PrimeServices\wfTest\obj\Debug\wfTest.Properties.Resources.resources
+D:\University\ИСИС\test\PrimeServices\wfTest\obj\Debug\wfTest.csproj.GenerateResource.cache
+D:\University\ИСИС\test\PrimeServices\wfTest\obj\Debug\wfTest.csproj.CoreCompileInputs.cache
+D:\University\ИСИС\test\PrimeServices\wfTest\obj\Debug\wfTest.exe
+D:\University\ИСИС\test\PrimeServices\wfTest\obj\Debug\wfTest.pdb
